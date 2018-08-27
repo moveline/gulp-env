@@ -15,8 +15,6 @@ Install
 npm i --save-dev gulp-env
 ```
 
-The TypeScript definition file is available in gulp-env.d.ts within the base directory.
-
 Usage
 ======
 
